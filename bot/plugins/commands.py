@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '⚜️ Join Us ⚜️', url="https://t.me/CinemaCity_Chat"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    ' Join Us ', url="https://t.me/CC_links_SK"
+                                    ' Join Us ', url="https://t.me/CinemaCity_Chat"
                                 )
                         ]
                     ]
