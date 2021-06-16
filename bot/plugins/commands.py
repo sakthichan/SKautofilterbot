@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚜️ Join Our Group ⚜️', url="https://t.me/CinemaCity_Chat"
+                                    '💞Join Our Group ⚜️', url="https://t.me/CinemaCity_Chat"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    ' Join Our Group ', url="https://t.me/CinemaCity_Chat"
+                                    ' 💞Join Our Group💞 ', url="https://t.me/CinemaCity_Chat"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚜️Join Our Group⚜️', url="https://t.me/CinemaCity_Chat"
+                                    '💞Join Our Group💞', url="https://t.me/CinemaCity_Chat"
                                 )
                         ]
                     ]
